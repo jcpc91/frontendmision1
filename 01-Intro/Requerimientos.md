@@ -5,6 +5,10 @@
 ## Análisis de requisitos y requerimientos
 ## Modelamiento de negocio
 
+![This is an image](https://raw.githubusercontent.com/jcpc91/frontendmision1/main/01-Intro/img/crear-cuenta.png)
+![This is an image](https://github.com/jcpc91/frontendmision1/raw/main/01-Intro/img/nueva-demanda.png)
+
+
 ### alcance de la solución
 El sistema tendrá como objetivo abstraer a los usuarios del proceso burocrático de levantar una denuncias ante las instancias de justicia.
 El sistema permitirá contrartar dos tipos de suscripción "Basica" y "Pro". 
